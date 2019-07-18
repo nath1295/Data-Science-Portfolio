@@ -11,3 +11,15 @@ https://nbviewer.jupyter.org/github/nath1295/Data-Science-Portfolio/blob/master/
 #### These are the static previews of the plots in the notebook
 ![bar-plot](https://github.com/nath1295/Data-Science-Portfolio/blob/master/World_population_visualisation/pop-bar.png)
 ![map-plot](https://github.com/nath1295/Data-Science-Portfolio/blob/master/World_population_visualisation/pop-map.png)
+
+### 2. Classification - Mobile Price
+
+This project is dealing with a Kaggle dataset in the following link:<br>
+https://www.kaggle.com/iabhishekofficial/mobile-price-classification<br>
+It contains the differnt features of differnt models of phone and their respective price range. A simple demonstration of training a Random Forest Classifier to predict the price ranges of phones is included, and the the classifier achieves an accuracy of 88%.
+
+#### This is link to the project jupyter notebook
+https://nbviewer.jupyter.org/github/nath1295/Data-Science-Portfolio/blob/master/mobile_price_classification/mobile_classification.ipynb
+
+#### A heatmap of the confusion matrix of the test result
+![heatmap](https://github.com/nath1295/Data-Science-Portfolio/blob/master/mobile_price_classification/confusion.png)
