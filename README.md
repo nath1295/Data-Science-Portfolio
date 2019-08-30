@@ -16,10 +16,8 @@ It is a known fact that the world population is growing in an accelerating manne
 
 This project is dealing with a Kaggle dataset in the following link:<br>
 https://www.kaggle.com/iabhishekofficial/mobile-price-classification<br>
-It contains the differnt features of differnt models of phone and their respective price range. A simple demonstration of training a Random Forest Classifier to predict the price ranges of phones is included, and the the classifier achieves an accuracy of 88%.
+It contains the differnt features of differnt models of phone and their respective price range. A simple demonstration of training a Random Forest Classifier to predict the price ranges of phones is included, and the the classifier achieves an accuracy of around <b>90%</b>, which is a <b>~10% improvement</b> compare to the baseline model (Random forest classifier with default parameters).
 
 #### This is link to the project jupyter notebook
 <a href="https://nbviewer.jupyter.org/github/nath1295/Data-Science-Portfolio/blob/master/mobile_price_classification/mobile_classification.ipynb?flush_cache=true" target="_blank">Mobile Price</a>
 
-#### A heatmap of the confusion matrix of the test result
-![heatmap](https://github.com/nath1295/Data-Science-Portfolio/blob/master/mobile_price_classification/confusion.png)
