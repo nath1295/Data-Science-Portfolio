@@ -21,3 +21,17 @@ It contains the differnt features of differnt models of phone and their respecti
 #### This is link to the project jupyter notebook
 <a href="https://nbviewer.jupyter.org/github/nath1295/Data-Science-Portfolio/blob/master/mobile_price_classification/mobile_classification.ipynb?flush_cache=true" target="_blank">Mobile Price</a>
 
+### 3. Web Scrapping, SQL Database Management, Data Analysis - HK District Councils Elections
+
+This is a simple report on the data of the 2019 Hong Kong Districts Council Election. This mini project involves the whole ETL process with python and SQL database (SQLite3). Some web scrapping is involved to obtain information from different sources and a simple analysis and report with articulating infographics are included. 
+
+The following shows the voters ratios with different political views in the 18 districts along with the age group distribution and voting rates.
+![hbar-plot](https://github.com/nath1295/Data-Science-Portfolio/blob/master/election_research/graph/18district.png)
+
+#### For more details, please find the report notebook below:
+<a href="https://nbviewer.jupyter.org/github/nath1295/Data-Science-Portfolio/blob/master/election_research/analysis.ipynb?flush_cache=true" target="_blank">Election Analysis</a>
+
+#### For the ETL process, please find the notebook below (No step by step comments):
+<a href="https://nbviewer.jupyter.org/github/nath1295/Data-Science-Portfolio/blob/master/election_research/data_cleansing.ipynb?flush_cache=true" target="_blank">ETL Process</a>
+<br>
+Data sources are included in this notebook.
